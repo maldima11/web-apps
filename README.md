@@ -1,0 +1,2 @@
+- Project: Build is a simple e-commerce website with a cart system and a Paystack checkout.
+- Description: The e-commerce website is hoping to sell gadgets to millennials in Africa. However, if you so desire, you can decide to make your e-commerce website sell products of a different category. 
