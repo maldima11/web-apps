@@ -103,9 +103,28 @@ header .icons div:hover {
 /* cart items details */
 
 .cart-items {
-    display: grid;
-    grid-template-columns: auto;
-    gap: 5px;
+    margin: 80px auto;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+th {
+    text-align: left;
+    padding: 1rem;
+    color: var(--black);
+}
+
+td {
+    padding: 1rem;
+    color: var(--grey);
 }
 
 .grid {
